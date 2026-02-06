@@ -11,3 +11,4 @@ output/
 fir_extractor/input_pdfs/
 fir_extractor/output/
 .DS_Store
+.venv312/
