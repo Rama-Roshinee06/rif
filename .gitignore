@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+*.pdf
+*.xlsx
+input_pdfs/
+output/
+fir_extractor/input_pdfs/
+fir_extractor/output/
+.DS_Store
