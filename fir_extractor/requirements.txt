@@ -1,11 +1,9 @@
-python-doctr
-opencv-python-headless
+rapidocr_onnxruntime
+onnxruntime
+opencv-python
 pdf2image
+pillow
 pandas
 openpyxl
-tqdm
 numpy
-# fast import for doctr if needed, but standard python-doctr usually suffices.
-# We use opencv-python-headless for server/script environments to avoid GUI deps, 
-# but 'opencv-python' is also fine. adhering to user request 'opencv-python' implicitly via 'OpenCV'
-opencv-python
+tqdm
